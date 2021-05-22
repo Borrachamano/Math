@@ -1,4 +1,4 @@
- po(base, expoente):
+def po(base, expoente):
 	result = 1
 	for c in range(0, expoente):
 		result *= base
